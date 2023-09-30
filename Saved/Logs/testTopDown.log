@@ -1577,3 +1577,474 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.09.30-16.51.15:836][880]SourceControl: fatal: E:/UE_4.23/Engine/Content: 'E:/UE_4.23/Engine/Content' is outside repository at 'E:/jamproj/GJ1'
 [2023.09.30-16.51.15:914][880]LogSlate: FSceneViewport::OnFocusLost() reason 5
 [2023.09.30-16.51.21:405][880]LogSlate: Window 'Submit Files' being destroyed
+[2023.09.30-16.52.07:791][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.30-16.53.08:158][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.30-16.53.08:258][178]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.30-16.53.08:267][178]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2023.09.30-16.53.08:267][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.30-16.53.08:267][178]PIE: New page: PIE session: TopDownExampleMap (1 окт. 2023 г., 0:53:08)
+[2023.09.30-16.53.08:267][178]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TopDownExampleMap
+[2023.09.30-16.53.08:275][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007573s)
+[2023.09.30-16.53.08:275][178]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.09.30-16.53.08:275][178]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2023.09.30-16.53.08:276][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TopDownExampleMap.TopDownExampleMap to /Game/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.008327s)
+[2023.09.30-16.53.08:303][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.09.30-16.53.08:308][178]LogInit: XAudio2 using 'Динамики (6- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.09.30-16.53.08:316][178]LogInit: FAudioDevice initialized.
+[2023.09.30-16.53.08:320][178]LogLoad: Game class is 'BP_GameMode_C'
+[2023.09.30-16.53.08:321][178]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2023.09.30-20.53.08
+[2023.09.30-16.53.08:321][178]LogWorld: Bringing up level for play took: 0.001203
+[2023.09.30-16.53.08:321][178]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2023.09.30-16.53.08:324][178]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TopDownExampleMap 0,389
+[2023.09.30-16.53.08:324][178]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2023.09.30-16.53.11:282][355]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.53.11:283][355]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.53.20:200][890]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.53.20:200][890]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.53.20:733][922]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.53.20:733][922]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.53.33:648][696]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.53.33:648][696]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.53.34:148][726]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.53.34:148][726]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.53.34:549][750]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.53.34:549][750]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.53.34:999][777]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.53.34:999][777]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.53.45:534][409]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.53.45:534][409]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.53.45:983][436]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.53.45:983][436]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.53.46:183][448]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.53.46:183][448]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.53.46:383][460]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.53.46:383][460]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.53.46:583][472]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.53.46:584][472]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.53.46:749][482]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.53.46:750][482]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.53.46:933][493]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.53.46:933][493]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.53.47:132][505]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.53.47:133][505]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.53.47:351][518]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.53.47:351][518]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.53.49:235][631]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.53.49:236][631]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.53.49:501][647]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.53.49:502][647]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.53.49:735][661]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.53.49:735][661]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.53.49:951][674]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.53.49:951][674]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.53.50:152][686]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.53.50:152][686]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.53.50:369][699]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.53.50:369][699]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.53.50:701][719]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.53.50:702][719]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.53.50:934][733]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.53.50:934][733]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.53.51:168][747]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.53.51:168][747]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.00:002][277]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.00:002][277]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.01:101][343]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.01:102][343]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.01:603][373]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.01:604][373]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.01:851][388]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.01:851][388]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.02:067][401]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.02:068][401]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.02:301][415]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.02:301][415]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.02:752][442]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.02:752][442]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.03:186][468]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.03:186][468]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.03:501][487]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.03:501][487]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.03:952][514]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.03:952][514]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.07:968][755]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.07:969][755]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.08:284][774]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.08:285][774]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.08:552][790]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.08:552][790]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.10:518][908]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.10:518][908]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.10:934][933]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.10:935][933]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.11:384][960]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.11:384][960]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.11:617][974]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.11:618][974]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.12:168][  7]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.12:168][  7]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.12:384][ 20]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.12:384][ 20]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.12:651][ 36]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.12:652][ 36]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.12:885][ 50]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.12:885][ 50]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.13:084][ 62]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.13:085][ 62]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.13:319][ 76]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.13:319][ 76]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.13:568][ 91]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.13:569][ 91]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.13:769][103]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.13:769][103]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.14:018][118]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.14:019][118]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.14:268][133]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.14:268][133]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.14:502][147]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.14:503][147]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.14:735][161]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.14:735][161]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.14:952][174]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.14:952][174]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.15:169][187]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.15:169][187]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.15:902][231]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.15:902][231]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.16:135][245]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.16:136][245]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.19:769][463]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.19:769][463]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.20:168][487]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.20:169][487]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.20:385][500]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.20:385][500]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.20:618][514]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.20:619][514]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.20:885][530]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.20:885][530]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.21:119][544]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.21:119][544]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.21:319][556]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.21:319][556]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.21:535][569]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.21:535][569]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.21:735][581]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.21:735][581]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.21:936][593]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.21:936][593]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.25:719][820]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.25:719][820]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.26:002][837]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.26:002][837]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.26:269][853]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.26:269][853]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.26:551][870]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.26:552][870]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.28:785][  4]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.28:785][  4]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.30:402][101]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.30:402][101]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.31:461][164]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.31:461][164]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.31:912][191]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.31:912][191]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.32:261][212]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.32:261][212]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.33:678][297]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.33:679][297]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.33:928][312]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.33:928][312]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.34:161][326]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.34:162][326]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.34:512][347]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.34:512][347]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.34:979][375]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.34:979][375]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.35:478][405]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.35:478][405]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.35:795][424]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.35:795][424]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.37:029][498]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.37:030][498]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.37:312][515]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.37:312][515]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.37:862][548]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.37:862][548]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.38:228][570]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.38:229][570]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.38:444][583]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.38:445][583]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.38:679][597]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.38:679][597]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.38:895][610]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.38:895][610]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.39:095][622]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.39:095][622]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.39:328][636]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.39:329][636]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.39:528][648]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.39:528][648]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.39:745][661]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.39:746][661]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.39:977][675]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.39:978][675]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.40:195][688]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.40:196][688]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.40:411][701]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.40:412][701]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.40:745][721]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.40:746][721]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.41:328][756]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.41:328][756]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.41:545][769]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.41:545][769]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.41:745][781]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.41:745][781]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.41:978][795]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.41:978][795]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.42:246][811]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.42:246][811]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.42:495][826]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.42:496][826]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.42:729][840]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.42:729][840]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.42:979][855]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.42:979][855]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.43:211][869]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.43:211][869]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.43:529][888]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.43:529][888]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.43:795][904]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.43:796][904]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.44:145][925]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.44:146][925]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.44:779][963]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.44:779][963]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.44:995][976]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.44:996][976]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.45:229][990]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.45:229][990]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.45:595][ 12]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.45:595][ 12]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.45:895][ 30]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.45:896][ 30]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.46:129][ 44]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.46:129][ 44]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.46:345][ 57]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.54.46:345][ 57]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.54.49:846][267]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2023.09.30-16.54.49:846][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-16.54.49:846][267]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TopDownExampleMap
+[2023.09.30-16.54.49:846][267]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.30-16.54.49:859][267]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.30-16.54.49:859][267]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2023.09.30-16.54.49:887][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-16.54.49:889][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.09.30-16.54.49:945][271]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.09.30-16.54.50:829][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2023.09.30-16.54.53:978][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.09.30-16.54.54:823][560]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2023.09.30-16.54.54:916][560]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2023.09.30-16.54.54:924][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TopDownExampleMap" FILE="../../../../jamproj/GJ1/Content/Maps/TopDownExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.30-16.54.54:950][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.09.30-16.54.55:348][560]LogSavePackage: Moving '../../../../jamproj/GJ1/Saved/TopDownExampleMap989CC3B74482575A16CE68B17838F158.tmp' to '../../../../jamproj/GJ1/Content/Maps/TopDownExampleMap.umap'
+[2023.09.30-16.54.55:430][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TopDownExampleMap_BuiltData" FILE="../../../../jamproj/GJ1/Content/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2023.09.30-16.54.55:541][560]LogSavePackage: Moving '../../../../jamproj/GJ1/Saved/TopDownExampleMap_BuiltDataF10D423C43EDB2688DDE75807625432F.tmp' to '../../../../jamproj/GJ1/Content/Maps/TopDownExampleMap_BuiltData.uasset'
+[2023.09.30-16.55.27:922][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube48)
+[2023.09.30-16.55.30:319][642]Cmd: EDIT COPY
+[2023.09.30-16.55.30:502][653]Cmd: EDIT PASTE
+[2023.09.30-16.55.48:936][755]Cmd: EDIT COPY
+[2023.09.30-16.55.49:619][796]Cmd: EDIT PASTE
+[2023.09.30-16.55.56:391][200]Cmd: EDIT COPY
+[2023.09.30-16.55.56:591][212]Cmd: EDIT PASTE
+[2023.09.30-16.56.31:985][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.30-16.56.32:085][333]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.30-16.56.32:093][333]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2023.09.30-16.56.32:094][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.30-16.56.32:094][333]PIE: New page: PIE session: TopDownExampleMap (1 окт. 2023 г., 0:56:32)
+[2023.09.30-16.56.32:094][333]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TopDownExampleMap
+[2023.09.30-16.56.32:102][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008051s)
+[2023.09.30-16.56.32:103][333]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.09.30-16.56.32:103][333]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2023.09.30-16.56.32:103][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TopDownExampleMap.TopDownExampleMap to /Game/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.008980s)
+[2023.09.30-16.56.32:131][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.09.30-16.56.32:136][333]LogInit: XAudio2 using 'Динамики (6- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.09.30-16.56.32:144][333]LogInit: FAudioDevice initialized.
+[2023.09.30-16.56.32:150][333]LogLoad: Game class is 'BP_GameMode_C'
+[2023.09.30-16.56.32:151][333]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2023.09.30-20.56.32
+[2023.09.30-16.56.32:151][333]LogWorld: Bringing up level for play took: 0.001234
+[2023.09.30-16.56.32:151][333]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2023.09.30-16.56.32:153][333]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TopDownExampleMap 0,219
+[2023.09.30-16.56.32:154][333]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2023.09.30-16.56.48:413][308]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.48:414][308]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.48:662][323]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.48:663][323]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.48:896][337]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.48:897][337]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.49:079][348]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.49:080][348]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.49:297][361]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.49:297][361]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.49:563][377]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.49:563][377]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.49:829][393]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.49:829][393]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.50:063][407]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.50:063][407]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.50:296][421]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.50:297][421]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.50:529][435]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.50:530][435]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.50:813][452]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.50:813][452]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.51:129][471]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.51:129][471]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.51:396][487]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.51:396][487]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.51:612][500]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.51:613][500]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.51:845][514]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.51:845][514]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.52:079][528]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.52:080][528]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.52:345][544]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.52:346][544]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.52:730][567]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.52:730][567]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.52:945][580]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.52:945][580]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.53:196][595]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.53:196][595]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.53:429][609]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.53:429][609]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.53:696][625]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.53:696][625]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.53:912][638]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.53:913][638]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.54:129][651]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.54:130][651]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.54:379][666]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.54:380][666]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.54:612][680]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.54:612][680]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.54:829][693]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.54:830][693]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.55:096][709]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.55:096][709]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.55:329][723]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.55:329][723]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.55:529][735]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.55:530][735]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.55:762][749]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.55:763][749]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.55:996][763]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.55:996][763]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.56:230][777]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.56:230][777]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.56:462][791]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.56:463][791]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.56:679][804]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.56:679][804]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.56:913][818]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.56:913][818]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.57:146][832]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.57:146][832]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.57:362][845]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.57:362][845]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.57:595][859]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.57:596][859]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.57:812][872]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.57:813][872]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.58:012][884]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.58:013][884]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.58:263][899]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.58:263][899]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.58:529][915]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.58:529][915]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.58:763][929]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.58:764][929]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.58:979][942]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.58:979][942]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.59:196][955]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.59:196][955]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.59:412][968]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.59:412][968]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.59:629][981]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.59:630][981]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.56.59:862][995]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.56.59:863][995]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.57.00:129][ 11]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.57.00:130][ 11]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.57.00:396][ 27]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.57.00:396][ 27]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.57.00:729][ 47]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.57.00:730][ 47]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.57.00:963][ 61]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.57.00:963][ 61]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.57.01:447][ 90]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.57.01:447][ 90]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.57.01:712][106]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.57.01:712][106]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.57.02:112][130]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.57.02:113][130]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.57.02:363][145]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.57.02:363][145]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.57.02:563][157]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.57.02:563][157]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.57.02:996][183]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.57.02:996][183]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.57.03:246][198]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.57.03:246][198]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.57.03:547][216]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.57.03:547][216]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.57.03:745][228]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.57.03:746][228]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.57.05:063][307]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.57.05:063][307]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.57.05:379][326]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.57.05:379][326]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.57.05:629][341]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.57.05:630][341]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.57.05:912][358]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.57.05:913][358]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.57.06:179][374]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.57.06:179][374]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.57.06:463][391]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.57.06:463][391]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.57.06:696][405]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.57.06:697][405]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.57.08:279][500]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-16.57.08:279][500]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-16.57.31:410][887]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2023.09.30-16.57.31:410][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-16.57.31:410][887]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TopDownExampleMap
+[2023.09.30-16.57.31:410][887]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.30-16.57.31:415][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.30-16.57.31:416][887]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2023.09.30-16.57.31:442][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-16.57.31:444][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.09.30-16.57.31:523][892]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.09.30-16.57.34:751][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube42)
+[2023.09.30-16.57.42:612][554]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2023.09.30-16.57.42:673][554]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2023.09.30-16.57.42:680][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TopDownExampleMap" FILE="../../../../jamproj/GJ1/Content/Maps/TopDownExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.30-16.57.42:706][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.09.30-16.57.43:094][554]LogSavePackage: Moving '../../../../jamproj/GJ1/Saved/TopDownExampleMap8226442D4C61755B2B57D1A3E1C38208.tmp' to '../../../../jamproj/GJ1/Content/Maps/TopDownExampleMap.umap'
+[2023.09.30-16.57.43:184][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TopDownExampleMap_BuiltData" FILE="../../../../jamproj/GJ1/Content/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2023.09.30-16.57.43:284][554]LogSavePackage: Moving '../../../../jamproj/GJ1/Saved/TopDownExampleMap_BuiltData4A623BAA43C171C2985C4CB0B6FC6C78.tmp' to '../../../../jamproj/GJ1/Content/Maps/TopDownExampleMap_BuiltData.uasset'
+[2023.09.30-16.58.01:667][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.30-16.58.05:157][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.30-16.58.05:337][644]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2023.09.30-16.58.05:348][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TopDownExampleMap" FILE="../../../../jamproj/GJ1/Content/Maps/TopDownExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.30-16.58.05:376][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.09.30-16.58.05:770][644]LogSavePackage: Moving '../../../../jamproj/GJ1/Saved/TopDownExampleMapC4EC7BDE4825B7D5EFE51B9B97E2555A.tmp' to '../../../../jamproj/GJ1/Content/Maps/TopDownExampleMap.umap'
+[2023.09.30-16.58.05:864][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TopDownExampleMap_BuiltData" FILE="../../../../jamproj/GJ1/Content/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2023.09.30-16.58.05:968][644]LogSavePackage: Moving '../../../../jamproj/GJ1/Saved/TopDownExampleMap_BuiltDataF4B405FC49B83509096613A038690260.tmp' to '../../../../jamproj/GJ1/Content/Maps/TopDownExampleMap_BuiltData.uasset'
+[2023.09.30-16.58.07:929][761]SourceControl: fatal: E:/UE_4.23/Engine/Content: 'E:/UE_4.23/Engine/Content' is outside repository at 'E:/jamproj/GJ1'
+[2023.09.30-16.58.22:400][761]LogSlate: Window 'Submit Files' being destroyed
+[2023.09.30-16.58.23:305][761]LogSourceControl: commit successful: [main e985f53] New basic level
+[2023.09.30-16.58.23:341][761]SourceControl: [main e985f53] New basic level
+[2023.09.30-16.58.23:341][761]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2023.09.30-16.58.23:347][761]SourceControl: Commited [main e985f53] New basic level.
