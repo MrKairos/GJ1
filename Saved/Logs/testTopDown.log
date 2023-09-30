@@ -1072,3 +1072,109 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.09.30-13.24.30:114][681]SourceControl:  create mode 100644 Content/lowpolydragon/Animation/Attack_dragon.uasset
 [2023.09.30-13.24.30:114][681]SourceControl:  create mode 100644 Content/lowpolydragon/Animation/fire_dragon.uasset
 [2023.09.30-13.24.30:120][681]SourceControl: Commited [main e6fe0b1] attack.
+[2023.09.30-13.31.35:247][789]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{93cb7ac2-a2c9-4ddf-bef3-fa87b9a3a5ab} was removed. Shutting down audio device.
+[2023.09.30-13.31.35:247][789]LogInit: No audio devices found!
+[2023.09.30-13.33.20:616][174]LogInit: XAudio2 using 'Динамики (6- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.09.30-13.37.07:295][828]BlueprintLog: New page: Compile Dragon_ABP
+[2023.09.30-13.37.07:428][828]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.09.30-13.37.09:092][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lowpolydragon/dragonanim/Dragon_ABP" FILE="../../../../jamproj/GJ1/Content/lowpolydragon/dragonanim/Dragon_ABP.uasset" SILENT=true
+[2023.09.30-13.37.09:344][922]LogSavePackage: Moving '../../../../jamproj/GJ1/Saved/Dragon_ABP40452F814616928FDB57F0A911305523.tmp' to '../../../../jamproj/GJ1/Content/lowpolydragon/dragonanim/Dragon_ABP.uasset'
+[2023.09.30-13.37.11:715][ 64]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.30-13.37.11:725][ 64]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2023.09.30-13.37.11:726][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.30-13.37.11:726][ 64]PIE: New page: PIE session: TopDownExampleMap (30 сент. 2023 г., 21:37:11)
+[2023.09.30-13.37.11:726][ 64]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TopDownExampleMap
+[2023.09.30-13.37.11:734][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007950s)
+[2023.09.30-13.37.11:735][ 64]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.09.30-13.37.11:735][ 64]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2023.09.30-13.37.11:735][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TopDownExampleMap.TopDownExampleMap to /Game/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.008911s)
+[2023.09.30-13.37.11:770][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.09.30-13.37.11:774][ 64]LogInit: XAudio2 using 'Динамики (6- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.09.30-13.37.11:781][ 64]LogInit: FAudioDevice initialized.
+[2023.09.30-13.37.11:788][ 64]LogLoad: Game class is 'BP_GameMode_C'
+[2023.09.30-13.37.11:790][ 64]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2023.09.30-17.37.11
+[2023.09.30-13.37.11:791][ 64]LogWorld: Bringing up level for play took: 0.000812
+[2023.09.30-13.37.11:791][ 64]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2023.09.30-13.37.11:793][ 64]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TopDownExampleMap -0,141
+[2023.09.30-13.37.11:793][ 64]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2023.09.30-13.37.12:784][123]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-13.37.12:784][123]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-13.37.24:484][825]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2023.09.30-13.37.24:484][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-13.37.24:484][825]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TopDownExampleMap
+[2023.09.30-13.37.24:484][825]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.30-13.37.24:493][825]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.30-13.37.24:493][825]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2023.09.30-13.37.24:527][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-13.37.24:530][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.09.30-13.37.24:589][829]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.09.30-13.37.33:006][334]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2023.09.30-13.37.35:877][506]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.09.30-13.37.39:210][706]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.09.30-13.37.45:320][ 72]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.09.30-13.37.46:079][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.30-13.37.46:162][122]LogTemp: Repeating last play command: Selected Viewport
+[2023.09.30-13.37.46:173][122]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2023.09.30-13.37.46:173][122]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.30-13.37.46:174][122]PIE: New page: PIE session: TopDownExampleMap (30 сент. 2023 г., 21:37:46)
+[2023.09.30-13.37.46:174][122]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TopDownExampleMap
+[2023.09.30-13.37.46:182][122]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007758s)
+[2023.09.30-13.37.46:182][122]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.09.30-13.37.46:182][122]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2023.09.30-13.37.46:182][122]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TopDownExampleMap.TopDownExampleMap to /Game/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.008682s)
+[2023.09.30-13.37.46:215][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.09.30-13.37.46:219][122]LogInit: XAudio2 using 'Динамики (6- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2023.09.30-13.37.46:227][122]LogInit: FAudioDevice initialized.
+[2023.09.30-13.37.46:236][122]LogLoad: Game class is 'BP_GameMode_C'
+[2023.09.30-13.37.46:237][122]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2023.09.30-17.37.46
+[2023.09.30-13.37.46:238][122]LogWorld: Bringing up level for play took: 0.000780
+[2023.09.30-13.37.46:238][122]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2023.09.30-13.37.46:240][122]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TopDownExampleMap 0,306
+[2023.09.30-13.37.46:240][122]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2023.09.30-13.38.01:399][ 31]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-13.38.01:399][ 31]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-13.38.02:184][ 78]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-13.38.02:184][ 78]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-13.38.02:783][114]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-13.38.02:783][114]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-13.38.03:183][138]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-13.38.03:183][138]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-13.38.05:266][263]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-13.38.05:267][263]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-13.38.05:799][295]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-13.38.05:800][295]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-13.38.11:250][622]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-13.38.11:250][622]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-13.38.17:900][ 21]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-13.38.17:900][ 21]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-13.38.18:183][ 38]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-13.38.18:184][ 38]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-13.38.18:417][ 52]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-13.38.18:417][ 52]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-13.38.18:600][ 63]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-13.38.18:600][ 63]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-13.38.18:817][ 76]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-13.38.18:818][ 76]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-13.38.19:667][127]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] Hello
+[2023.09.30-13.38.19:667][127]LogBlueprintUserMessages: [BP_CH_Dragon_C_0] ola
+[2023.09.30-13.38.24:767][433]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2023.09.30-13.38.24:767][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-13.38.24:767][433]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TopDownExampleMap
+[2023.09.30-13.38.24:767][433]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.30-13.38.24:776][433]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.30-13.38.24:776][433]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2023.09.30-13.38.24:810][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.30-13.38.24:812][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.09.30-13.38.24:870][437]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.09.30-13.38.26:037][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2023.09.30-13.38.26:227][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TopDownExampleMap" FILE="../../../../jamproj/GJ1/Content/Maps/TopDownExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.30-13.38.26:261][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.09.30-13.38.26:532][514]LogSavePackage: Moving '../../../../jamproj/GJ1/Saved/TopDownExampleMap796F050D4577C33C3E157685C6FF2B9E.tmp' to '../../../../jamproj/GJ1/Content/Maps/TopDownExampleMap.umap'
+[2023.09.30-13.38.26:608][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TopDownExampleMap_BuiltData" FILE="../../../../jamproj/GJ1/Content/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2023.09.30-13.38.26:687][514]LogSavePackage: Moving '../../../../jamproj/GJ1/Saved/TopDownExampleMap_BuiltData131849AE496A55AF4E80ECAF2E39C2F9.tmp' to '../../../../jamproj/GJ1/Content/Maps/TopDownExampleMap_BuiltData.uasset'
+[2023.09.30-13.38.29:119][659]SourceControl: fatal: E:/UE_4.23/Engine/Content: 'E:/UE_4.23/Engine/Content' is outside repository at 'E:/jamproj/GJ1'
+[2023.09.30-13.38.37:438][659]LogSlate: Window 'Submit Files' being destroyed
+[2023.09.30-13.38.38:427][659]LogSourceControl: commit successful: [main dffe9ac] Attack aniamtion
+[2023.09.30-13.38.38:498][659]SourceControl: [main dffe9ac] Attack aniamtion
+[2023.09.30-13.38.38:498][659]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2023.09.30-13.38.38:504][659]SourceControl: Commited [main dffe9ac] Attack aniamtion.
